@@ -1,10 +1,10 @@
 {
-  "name": "gulp-kss",
-  "version": "0.0.1",
-  "description": "Gulp plugin for KSS (Knyle Style Sheets) documentation generation",
+  "name": "gulp-kss-robloach",
+  "version": "0.0.2",
+  "description": "Gulp plugin for KSS (Knyle Style Sheets) documentation generation - Rob Loach's fork with some fixes.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/philj/gulp-kss.git"
+    "url": "https://github.com/RobLoach/gulp-kss.git"
   },
   "keywords": [
     "kss",
